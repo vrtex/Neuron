@@ -1,1 +1,1 @@
-# Neuron
+# Neuron jest częścią mózgu
